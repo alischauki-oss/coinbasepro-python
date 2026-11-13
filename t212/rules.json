@@ -1,0 +1,13 @@
+{
+  "_help": "Edit these to match your plan. Prices are in the stock's own currency (USD for COIN). Remove a field to switch that check off.",
+  "max_position_pct": 20,
+  "loss_review_pct": 20,
+  "tickers": {
+    "COIN": {
+      "review_below": 115,
+      "plan_below": "re-check the crypto thesis; decide hold or cut to your max size.",
+      "trim_above": 165,
+      "plan_above": "back near your average price - trim toward your max position size."
+    }
+  }
+}
